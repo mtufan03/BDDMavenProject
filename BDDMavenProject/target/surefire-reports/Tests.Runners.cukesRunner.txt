@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Tests.Runners.cukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.383 s <<< FAILURE! - in Tests.Runners.cukesRunner
+User can Select and Add items to the cart from Inventory Page(EMPTY_NAME)  Time elapsed: 10.448 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<23>
+

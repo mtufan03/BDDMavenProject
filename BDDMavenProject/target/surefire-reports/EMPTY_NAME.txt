@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: EMPTY_NAME
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.681 s <<< FAILURE! - in EMPTY_NAME
+User can Select and Add items to the cart from Inventory Page(EMPTY_NAME)  Time elapsed: 5.681 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<23>
+

@@ -1,0 +1,6 @@
+Tests\Runners\cukesRunner.class
+Tests\StepDefinitions\Login.class
+Tests\Pages\LoginPage.class
+Tests\StepDefinitions\hooks.class
+Tests\Utilities\ConfigurationReader.class
+Tests\Utilities\Driver.class
